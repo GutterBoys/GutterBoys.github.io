@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    image-rendering: auto;
+}
+label {
+    color:red;
+    font-family:fantasy;
+}
+.warning {
+    color:red;
+}
